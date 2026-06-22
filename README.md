@@ -1,5 +1,11 @@
-работает)
+works :) 
+simple js ascii art converter
 
-чтобы запустить:
-- npx server
-(сток индекс не будет работать, ведь юзается метод .getImageData)
+run:
+```npx server```
+  
+(we need it,bcs of .getImageData)
+
+
+example:
+![example](example.png)
