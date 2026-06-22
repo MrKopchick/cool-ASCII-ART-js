@@ -1,0 +1,29 @@
+body{
+    background-color: #1e1e1e;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#canvas1 {
+    border: 5px solid #fff;
+}
+
+.controls {
+    display: flex;
+}                                                                               
+
+.controls > input {                                         
+    width: 100%;
+    margin-top: 10px;
+}
+
+.controls > label {
+    color: #fff;
+    font-size: 18px;
+    width: 25%;
+}
